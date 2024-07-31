@@ -1,3 +1,3 @@
 - 👋 Hi, I’m elluveride
 - 👀 I’m interested in HTML/CSS
-- 🌱 I’m currently learning HTML/JS
+- 🌱 I’m currently learning Python
